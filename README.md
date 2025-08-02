@@ -123,7 +123,7 @@ The model identified key risk factors for stroke prediction:
 
 3. **Run the notebook:**
    ```bash
-   jupyter notebook "657_Assignment4 (1).ipynb"
+   jupyter notebook "657_Assignment4.ipynb"
    ```
 
 4. **Generate predictions:**
